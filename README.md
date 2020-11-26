@@ -1,4 +1,4 @@
-# flutter_channel
+# Accediendo al flutter_channel
  
  Channels Flutter to Java permite acceder a codigo java nativo
  a travez de una invocacion de un canal que permite que ejecute
